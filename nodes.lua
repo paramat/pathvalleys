@@ -8,7 +8,7 @@ minetest.register_node("pathvalleys:junglewood", {
 
 minetest.register_node("pathvalleys:bridgewood", {
 	description = "Bridge wood",
-	tiles = {"pathv7_bridgewood.png"},
+	tiles = {"pathvalleys_bridgewood.png"},
 	is_ground_content = false,
 	groups = {choppy = 2, oddly_breakable_by_hand = 2, flammable = 2},
 	sounds = default.node_sound_wood_defaults(),
